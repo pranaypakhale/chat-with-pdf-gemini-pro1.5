@@ -1,0 +1,13 @@
+langchain
+langchain-ollama
+streamlit
+langchain_experimental
+langchain-openai
+python-dotenv
+sentence-transformers
+langchain_community
+langchain-google-genai
+langchain_chroma
+langchainhub
+pypdf
+rapidocr-onnxruntime
